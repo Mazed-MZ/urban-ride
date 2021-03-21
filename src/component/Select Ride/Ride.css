@@ -1,0 +1,33 @@
+.ride{
+    background-image: url('../../Images/mercedes_benz_future_bus_2016-1366x768.jpg');
+    height: 730px;
+    background-repeat: none;
+    display: flex;
+}
+.ride-div img{
+    width: 370px;
+    border-radius: 20px;
+    box-shadow: 30px 30px 40px black;
+}
+#car img{
+    height: 250px;
+}
+#bus img{
+    height: 250px;
+}
+#train img{
+    height: 250px;
+}
+.ride-div{
+    width: 346px;
+    margin-top: 10%;
+    margin-left: 5%;
+    height: 300px;
+    text-align: center;
+}
+.ride-div button{
+    width: 50%;
+    height: 20%;
+    margin-left: 8%;
+    margin-top: 5%;
+}

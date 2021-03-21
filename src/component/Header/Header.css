@@ -1,0 +1,23 @@
+.header{
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    background-repeat: none;
+  }
+  .header nav a{
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 30px;
+  }
+  .header nav{
+    margin-top: 0%;
+    margin-left: 400px;
+    padding: 1%;
+  }
+  .header h1{
+    padding: 1%;
+  }
+  .header nav a:hover{
+    color: darkorange;
+  }
